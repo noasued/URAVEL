@@ -56,12 +56,12 @@
   <li>역사 문화 페이지 + 파파고 번역 API 적용 (관리자 로그인 시 글쓰기,수정,삭제 가능 / 글 입력 시 HISTORY 테이블과 TRAVEL 테이블에 데이터 동시 입력)
     <ul>
       <li>회원 / 비회원 </li>
-      <li><img width="80%" src="https://user-images.githubusercontent.com/78011677/143679549-526a6586-9fff-4a01-9f23-e43680ebbfc2.gif" />
+      <li><img src="https://user-images.githubusercontent.com/78011677/143679549-526a6586-9fff-4a01-9f23-e43680ebbfc2.gif" />
  </li>
     </ul>
     <ul>
       <li>관리자 </li>
-      <li><img width="80%" src="https://user-images.githubusercontent.com/78011677/143679554-56e8d4aa-e260-4dcb-9215-3e0b18edde68.gif" />
+      <li><img src="https://user-images.githubusercontent.com/78011677/143679554-56e8d4aa-e260-4dcb-9215-3e0b18edde68.gif" />
  </li>
     </ul>
   
@@ -71,12 +71,12 @@
   <li>FAQ 페이지 + 파파고 번역 API 적용 (관리자 로그인 시 글쓰기,수정,삭제 가능)
     <ul>
       <li>회원 / 비회원 </li>
-      <li> <img width="80%" src="https://user-images.githubusercontent.com/78011677/143679438-2836511f-654a-42b1-a8d9-60bbd8913e20.gif" />
+      <li> <img src="https://user-images.githubusercontent.com/78011677/143679438-2836511f-654a-42b1-a8d9-60bbd8913e20.gif" />
 </li>
     </ul>
     <ul>
       <li>관리자 </li>
-      <li> <img width="80%" src="https://user-images.githubusercontent.com/78011677/143679450-53f299c4-13bf-4538-94ef-483bf6bc7ab3.gif" />
+      <li> <img src="https://user-images.githubusercontent.com/78011677/143679450-53f299c4-13bf-4538-94ef-483bf6bc7ab3.gif" />
 </li>
     </ul>
   </li>
