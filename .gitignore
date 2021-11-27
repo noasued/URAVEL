@@ -1,4 +1,11 @@
 keys.java
+.metadata/
+.setting/
+.classpath
+.project
+build/
+
+
 # Compiled class file
 *.class
 
