@@ -56,11 +56,13 @@
   <li>역사 문화 페이지 + 파파고 번역 API 적용 (관리자 로그인 시 글쓰기,수정,삭제 가능 / 글 입력 시 HISTORY 테이블과 TRAVEL 테이블에 데이터 동시 입력)
     <ul>
       <li>회원 / 비회원 </li>
-      <li> </li>
+      <li><img width="80%" src="https://user-images.githubusercontent.com/78011677/143679549-526a6586-9fff-4a01-9f23-e43680ebbfc2.gif" />
+ </li>
     </ul>
     <ul>
       <li>관리자 </li>
-      <li> </li>
+      <li><img width="80%" src="https://user-images.githubusercontent.com/78011677/143679554-56e8d4aa-e260-4dcb-9215-3e0b18edde68.gif" />
+ </li>
     </ul>
   
   </li>
@@ -69,23 +71,24 @@
   <li>FAQ 페이지 + 파파고 번역 API 적용 (관리자 로그인 시 글쓰기,수정,삭제 가능)
     <ul>
       <li>회원 / 비회원 </li>
-      <li> </li>
+      <li> <img width="80%" src="https://user-images.githubusercontent.com/78011677/143679438-2836511f-654a-42b1-a8d9-60bbd8913e20.gif" />
+</li>
     </ul>
     <ul>
       <li>관리자 </li>
-      <li> </li>
+      <li> <img width="80%" src="https://user-images.githubusercontent.com/78011677/143679450-53f299c4-13bf-4538-94ef-483bf6bc7ab3.gif" />
+</li>
     </ul>
   </li>
 </ul>
 
 
-<h2>6.자체평가</h2>
+<h2>6.프로젝트를 하며 느낀 점</h2>
 <ul>
-  <li>팀원 개개인의 부족한 역량을 파악</li>
-  <li>다양한 API를 사용하면서 개발 역량이 향상됨</li>
-  <li>주제가 평범하다는 점과 사이트에 게시된 정보가 많지 않은 점이 아쉬움</li>
+  <li>HTML, CSS, Javascript, Java(JDBC, Servlet), Oracle Sql 등을 이용하여 참여한 첫 팀프로젝트였기에 의미가 크다.</li>
+  <li>팀원 간의 원활한 커뮤니케이션 및 역할 분담 등 협업을 통해 문제해결에 가까워질 수 있음을 실감했다.</li>
+  <li>MVC패턴과 JDBC, Servlet, Javascript 등의 기술에 대한 이해도가 향상됨을 느낄 수 있었던 경험이었다.</li>
 </ul>
-
 
 
 
