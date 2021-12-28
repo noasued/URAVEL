@@ -18,45 +18,25 @@
 <li>DB 모델링</li>
 <img width="90%" src="https://user-images.githubusercontent.com/78011677/143672671-0ebd2af5-b571-45e7-8abb-5731aca4a8e7.png">
 
-
 <li>화면 설계</li>
-<img width="80%" alt="01" src="https://user-images.githubusercontent.com/78011677/143677859-e4655144-89c9-4d64-ba71-d1c9d4f692ae.png">
-<img width="80%" alt="02" src="https://user-images.githubusercontent.com/78011677/143677861-6b2d217d-8754-492d-9e00-cf4fcf5b6b49.png">
-<img width="80%" alt="03" src="https://user-images.githubusercontent.com/78011677/143677868-532e50f6-a616-4f12-99db-bac9abc39ef5.png">
-<img width="80%" alt="04" src="https://user-images.githubusercontent.com/78011677/143677872-4c173ab6-8087-48cc-9489-e143a9bd2fde.png">
-<img width="80%" alt="05" src="https://user-images.githubusercontent.com/78011677/143677876-c09eb9b1-5a4c-4ba2-a126-4be46f2d25e2.png">
-<img width="80%" alt="06" src="https://user-images.githubusercontent.com/78011677/143677878-a2cf49a2-c887-4afa-a532-4c18ec41ce90.png">
-<img width="80%" alt="07" src="https://user-images.githubusercontent.com/78011677/143677882-b4322d9c-5f63-4efd-a4ea-fad6c6d9fef5.png">
-<img width="80%" alt="08" src="https://user-images.githubusercontent.com/78011677/143677885-2bc8137e-2748-493e-a149-f1c2094d70eb.png">
-<img width="80%" alt="09" src="https://user-images.githubusercontent.com/78011677/143677895-b884d34d-4372-4ae5-8576-ac622e7462da.png">
-<img width="80%" alt="11" src="https://user-images.githubusercontent.com/78011677/143677902-b918a9f5-c466-42c2-bd2c-25044642356b.png">
-<img width="80%" alt="12" src="https://user-images.githubusercontent.com/78011677/143678067-79ef5d06-1913-4e0c-aa49-1c296649e9bd.png">
-<img width="80%" alt="13" src="https://user-images.githubusercontent.com/78011677/143677908-b3bc7324-8a69-4b0f-9d4d-5b07a116a7d7.png">
-<img width="80%" alt="14" src="https://user-images.githubusercontent.com/78011677/143677913-bcfeae45-6dc5-4213-a03f-7fdf8dc925ca.png">
-<img width="80%" alt="15" src="https://user-images.githubusercontent.com/78011677/143677923-c8983e23-e3ab-4700-8181-8f9d552d63b8.png">
-<img width="80%" alt="16" src="https://user-images.githubusercontent.com/78011677/143677926-188e09d5-c554-4900-bed0-79442bbe2f11.png">
-<img width="80%" alt="17" src="https://user-images.githubusercontent.com/78011677/143677931-92284c52-aede-4c78-aa15-9b419227086d.png">
-<img width="80%" alt="18" src="https://user-images.githubusercontent.com/78011677/143677936-eb173f69-5758-4ff1-bdbb-d54e71303039.png">
-<img width="80%" alt="19" src="https://user-images.githubusercontent.com/78011677/143677938-24bfd942-86ef-4b10-8c72-19d3cfed0323.png">
-<img width="80%" alt="20" src="https://user-images.githubusercontent.com/78011677/143677940-c15139a9-d499-4348-88a0-98439dbeafaa.png">
-<img width="80%" alt="21" src="https://user-images.githubusercontent.com/78011677/143677941-5aea4269-5b56-4630-8abe-8f957d80f3f3.png">
-<img width="80%" alt="22" src="https://user-images.githubusercontent.com/78011677/143677944-c286e4d0-0fab-4f2d-b4a5-8b02b42c2445.png">
-<img width="80%" alt="23" src="https://user-images.githubusercontent.com/78011677/143677947-5d74dafb-1f52-44a7-8df1-462d4973f360.png">
-<img width="80%" alt="24" src="https://user-images.githubusercontent.com/78011677/143677949-32552f0f-16e5-4f61-a582-8249ddc10453.png">
-<img width="80%" alt="25" src="https://user-images.githubusercontent.com/78011677/143677950-63f17acb-5ae8-43de-b243-cdc2a8ad40fe.png">
-<img width="80%" alt="26" src="https://user-images.githubusercontent.com/78011677/143677952-f4a258e2-50e0-4293-85d5-1969e4027524.png">
-<img width="80%" alt="27" src="https://user-images.githubusercontent.com/78011677/143677954-20aceb4a-fb04-46af-9fb3-38f5d867ffad.png">
-<img width="80%" alt="28" src="https://user-images.githubusercontent.com/78011677/143677955-7aecb994-b509-4abb-8ed1-ae62cbe0368d.png">
+<img width="85%" alt="09" src="https://user-images.githubusercontent.com/78011677/143677895-b884d34d-4372-4ae5-8576-ac622e7462da.png">
+<img width="85%" alt="10" src="https://user-images.githubusercontent.com/78011677/147531509-2eedcc34-ee6a-4aff-bd2f-ee92b26a92d7.png">
+
 </ul>
 
 <h2>5.결과</h2>
 <ul>
   <li>설계한대로 구현 완료</li>
+  <img width="85%" alt="a01" src="https://user-images.githubusercontent.com/78011677/147532768-6fede9b1-e29c-4742-a928-ceead442b46e.png">
+  <img width="85%" alt="a02" src="https://user-images.githubusercontent.com/78011677/147532777-835b8e83-52cc-4581-8ea2-14b813050c1c.png">
+  <img width="85%" alt="a03" src="https://user-images.githubusercontent.com/78011677/147532786-2b1520f8-5bbc-4c7f-9c63-93b8b100eb65.png">
+  <img width="85%" alt="a04" src="https://user-images.githubusercontent.com/78011677/147532798-a92f6068-47f0-4c7c-bb96-31556cf9314e.png">
+  <img width="85%" alt="a05" src="https://user-images.githubusercontent.com/78011677/147532800-fd986eed-c471-4382-88a1-69b5d43b50f5.png">
+
   <li>역사 문화 페이지 + 파파고 번역 API 적용 (관리자 로그인 시 글쓰기,수정,삭제 가능 / 글 입력 시 HISTORY 테이블과 TRAVEL 테이블에 데이터 동시 입력)
     <ul>
       <li>회원 / 비회원 </li>
-      <li><img src="https://user-images.githubusercontent.com/78011677/143679549-526a6586-9fff-4a01-9f23-e43680ebbfc2.gif" />
- </li>
+      <li><img src="https://user-images.githubusercontent.com/78011677/143679549-526a6586-9fff-4a01-9f23-e43680ebbfc2.gif" /></li>
     </ul>
     <ul>
       <li>관리자 </li>
@@ -68,6 +48,8 @@
  
   
   <li>FAQ 페이지 + 파파고 번역 API 적용 (관리자 로그인 시 글쓰기,수정,삭제 가능)
+     <img width="85%" alt="a06" src="https://user-images.githubusercontent.com/78011677/147532808-2bc543aa-8f91-49fd-91b7-bb350156de97.png">
+  <img width="85%" alt="a07" src="https://user-images.githubusercontent.com/78011677/147532813-cc9977e4-c835-4038-8780-365e97dbdb2e.png">
     <ul>
       <li>회원 / 비회원 </li>
       <li> <img src="https://user-images.githubusercontent.com/78011677/143679438-2836511f-654a-42b1-a8d9-60bbd8913e20.gif" />
