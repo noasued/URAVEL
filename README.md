@@ -18,12 +18,15 @@
 <li>DB 모델링</li>
 <img width="90%" src="https://user-images.githubusercontent.com/78011677/143672671-0ebd2af5-b571-45e7-8abb-5731aca4a8e7.png">
 
-<li>화면 설계</li>
+<li>담당 파트 중 "역시/문화" 페이지 화면 설계</li>
 <img width="85%" alt="09" src="https://user-images.githubusercontent.com/78011677/143677895-b884d34d-4372-4ae5-8576-ac622e7462da.png">
 <img width="85%" alt="10" src="https://user-images.githubusercontent.com/78011677/147531509-2eedcc34-ee6a-4aff-bd2f-ee92b26a92d7.png">
+<br>
+<li>담당 파트 중 "FAQ" 페이지 화면 설계</li>
+ <img width="85%" alt="18" src="https://user-images.githubusercontent.com/78011677/148682398-41cf1666-62cf-4df1-bb9d-18b144fc74d4.png">
 
 </ul>
-
+<br>
 <h2>5.결과</h2>
 <ul>
   <li>설계한대로 구현 완료</li>
@@ -69,6 +72,8 @@
   <li>HTML, CSS, Javascript, Java(JDBC, Servlet), Oracle Sql 등을 이용하여 참여한 첫 팀프로젝트였기에 의미가 크다.</li>
   <li>팀원 간의 원활한 커뮤니케이션 및 역할 분담 등 협업을 통해 문제해결에 가까워질 수 있음을 실감했다.</li>
   <li>MVC패턴과 JDBC, Servlet, Javascript 등의 기술에 대한 이해도가 향상됨을 느낄 수 있었던 경험이었다.</li>
+  <li>주제가 평범하다는 점, 사이트게 게시된 정보가 많지 않다는 점이 다소 아쉬웠다.</li>
+  <li>DB에 번역문을 준비해 두고 읽어오는 것 보다 속도가 느리고, 파파고 API에서 처리 가능한 데이터 양이 한정되어 있어서 아쉬운 점이 있다.</li>
 </ul>
 
 
